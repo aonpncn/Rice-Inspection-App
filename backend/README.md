@@ -1,9 +1,10 @@
-# EasyRice Backend API
+# Backend – Rice Inspection App
 
-This is a TypeScript backend project for rice inspection calculation, built to support the EasyRice Junior Exam requirements.
+This is the backend part of the Rice Inspection App, built using Node.js, TypeScript, and Express.js.
 
 ## Tech Stack
 
+- Node.js
 - TypeScript
 - Express.js
 
